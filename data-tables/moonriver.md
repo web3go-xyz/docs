@@ -2,6 +2,8 @@
 
 **collator_action_history**
 
+This table shows the history of action events and the corresponding balance change.
+
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
 | id                | integer           |                      |
@@ -16,6 +18,8 @@
 
 **collator_number_history**
 
+This table shows the history of changes of the number of collators.
+
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
 | id                | integer           |                      |
@@ -27,6 +31,8 @@
 
 **collator_point_history**
 
+This table shows the history of collators getting points after generating a block.
+
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
 | id                | integer           |                      |
@@ -35,20 +41,9 @@
 | point             | integer           |                      |
 | blocknumber       | bigint            |                      |
 
-**moon_river_chain_state**
-
-| field name        | data type         | data description     |
-| ------------------|:-----------------:| --------------------:|
-| id                | integer           |                      |
-| chain             | varchar           |                      |
-| wssEndpoint       | varchar           |                      |
-| symbol            | varchar           |                      |
-| startRoundIndex   | bigint            |                      |
-| startTimestamp    | varchar           |                      |
-| maxCollatorCount  | integer           |                      |
-| maxNominatorCount | integer           |                      |
-
 **nominator_action_history**
+
+This table shows the history of nominators nominating a collator and the corresponding balance change.
 
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
@@ -64,6 +59,8 @@
 
 **reward_history**
 
+This table shows the history of collators and nominators getting rewards for the finished block generations.
+
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
 | id                | integer           |                      |
@@ -78,6 +75,8 @@
 
 **round_collator**
 
+This table shows the bond information of collators at the start of the each round.
+
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
 | id                | integer           |                      |
@@ -87,6 +86,8 @@
 | totalbond         | decimal           |                      |
 
 **round_info**
+
+This table shows the general information of each round such as number of collators involved, total bond and start block.
 
 | field name        | data type         | data description     |
 | ------------------|:-----------------:| --------------------:|
