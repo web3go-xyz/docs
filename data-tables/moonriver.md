@@ -5,7 +5,7 @@
 This table shows the history of collators' action events and the corresponding balance change.
 
 | field name        | data type         | data description                              |
-| ------------------|:-----------------:| ---------------------------------------------:|
+| ------------------|:-----------------:| ----------------------------------------------|
 | id                | integer           | unique id                                     |
 | roundindex        | integer           | round index                                   |
 | account           | varchar           | collator account                              |
@@ -21,7 +21,7 @@ This table shows the history of collators' action events and the corresponding b
 This table shows the history of changes of the number of collators. 
 
 | field name        | data type         | data description                              |
-| ------------------|:-----------------:| ---------------------------------------------:|
+| ------------------|:-----------------:| ----------------------------------------------|
 | id                | integer           | unique id                                     |
 | blocknumber       | bigint            | the block number where the change took place  |
 | roundindex        | integer           | round index                                   |
@@ -34,7 +34,7 @@ This table shows the history of changes of the number of collators.
 This table shows the history of collators getting points after generating a block.
 
 | field name        | data type         | data description                                  |
-| ------------------|:-----------------:| -------------------------------------------------:|
+| ------------------|:-----------------:| --------------------------------------------------|
 | id                | integer           | unique id                                         |
 | roundindex        | integer           | round index                                       |
 | account           | varchar           | collator account                                  |
@@ -46,7 +46,7 @@ This table shows the history of collators getting points after generating a bloc
 This table shows the history of nominators nominating a collator and the corresponding balance change.
 
 | field name        | data type         | data description                                      |
-| ------------------|:-----------------:| -----------------------------------------------------:|
+| ------------------|:-----------------:| ------------------------------------------------------|
 | id                | integer           | unique id                                             |
 | roundindex        | integer           | round index                                           |
 | account           | varchar           | nominator account                                     |
@@ -62,7 +62,7 @@ This table shows the history of nominators nominating a collator and the corresp
 This table shows the history of collators and nominators getting rewards for the finished block generations.
 
 | field name        | data type         | data description                                       |
-| ------------------|:-----------------:| ------------------------------------------------------:|
+| ------------------|:-----------------:| -------------------------------------------------------|
 | id                | integer           | unique id                                              |
 | account           | varchar           | the reward reciever account                            |
 | issueBlock        | bigint            | the block where the reward was issued                  |
@@ -78,7 +78,7 @@ This table shows the history of collators and nominators getting rewards for the
 This table shows the bond information of collators at the start of each round.
 
 | field name        | data type         | data description                                        |
-| ------------------|:-----------------:| -------------------------------------------------------:|
+| ------------------|:-----------------:| --------------------------------------------------------|
 | id                | integer           | unique id                                               |
 | roundindex        | integer           | round index                                             |
 | account           | varchar           | collator account                                        |
@@ -90,7 +90,7 @@ This table shows the bond information of collators at the start of each round.
 This table shows the general information of each round such as number of collators involved, total bond and start block.
 
 | field name        | data type         | data description                                      |
-| ------------------|:-----------------:| -----------------------------------------------------:|
+| ------------------|:-----------------:| ------------------------------------------------------|
 | id                | integer           | unique id                                             |
 | roundindex        | integer           | round index                                           |
 | numberOfCollator  | integer           | number of collators in the round                      |
