@@ -48,11 +48,51 @@
 | maxCollatorCount  | integer           |                      |
 | maxNominatorCount | integer           |                      |
 
+**nominator_action_history**
 
+| field name        | data type         | data description     |
+| ------------------|:-----------------:| --------------------:|
+| id                | integer           |                      |
+| roundindex        | integer           |                      |
+| account           | varchar           |                      |
+| collator          | varchar           |                      |
+| actiontype        | varchar           |                      |
+| balancechange     | decimal           |                      |
+| balancecurrent    | decimal           |                      |
+| blocknumber       | bigint            |                      |
+| timestamp         | varchar           |                      |
 
+**reward_history**
 
+| field name        | data type         | data description     |
+| ------------------|:-----------------:| --------------------:|
+| id                | integer           |                      |
+| account           | varchar           |                      |
+| issueBlock        | bigint            |                      |
+| issueroundindex   | bigint            |                      |
+| realroundindex    | bigint            |                      |
+| balance           | decimal           |                      |
+| timestamp         | varchar           |                      |
+| isCollator        | integer           |                      |
+| isNominator       | integer           |                      |
 
+**round_collator**
 
+| field name        | data type         | data description     |
+| ------------------|:-----------------:| --------------------:|
+| id                | integer           |                      |
+| roundindex        | integer           |                      |
+| account           | varchar           |                      |
+| selfbond          | decimal           |                      |
+| totalbond         | decimal           |                      |
 
+**round_info**
 
-
+| field name        | data type         | data description     |
+| ------------------|:-----------------:| --------------------:|
+| id                | integer           |                      |
+| roundindex        | integer           |                      |
+| numberOfCollator  | integer           |                      |
+| totalbond         | decimal           |                      |
+| startblock        | bigint            |                      |
+| timestamp         | varchar           |                      |
