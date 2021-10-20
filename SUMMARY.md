@@ -16,10 +16,10 @@
 
 ## DATA TABLES
 
-* [Ethereum Data](data-tables/ethereum-data.md)
 * [KSM Crowdloan](data-tables/ksm-crowdloan.md)
-* [Karura](data-tables/karura.md)
 * [Moonriver](data-tables/moonriver.md)
+* [Karura](data-tables/karura.md)
+* [Ethereum Data](data-tables/ethereum-data.md)
 
 ## Label
 
