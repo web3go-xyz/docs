@@ -13,30 +13,6 @@ This table shows general information about tokens on Ethereum.
 | contractAddress   | varchar           | Contract address of the token                             |
 
 
-**chain_type_ext**
-
-This table shows information about the tokens in database.
-
-| field name                  | data type         | data description             |
-| ----------------------------|:-----------------:| ---------------------------- |
-| id                          | integer           | unique id                    |
-| contractAddress             | varchar           |                              |
-| walletAddress_latest_aID    | bigint            |                              |
-| lastUpdateTime              | datetime          |                              |
-
-
-**wallet_address**
-
-This table shows wallet addresses and its chain/token type on Ethereum. 
-
-| field name                  | data type         | data description             |
-| ----------------------------|:-----------------:| ---------------------------- |
-| id                          | integer           | unique id                    |
-| chainType                   | varchar           | Chain type as token type , such as : LIT, ATA                             |
-| contractAddress             | varchar           | Contract address of the token                             |
-| walletAddress               | varchar           | wallet address                             |
-
-
 **wallet_address_ext**
 
 This table shows wallet address information in database.
@@ -44,9 +20,9 @@ This table shows wallet address information in database.
 | field name                  | data type         | data description             |
 | ----------------------------|:-----------------:| ---------------------------- |
 | id                          | integer           | unique id                    |
-| contractAddress             | varchar           |                              |
-| walletAddress               | varchar           |                              |
-| lastUpdateTime              | datetime          |                              |
+| contractAddress             | varchar           | Contract address of the token                             |
+| walletAddress               | varchar           | The wallet address                            |
+| lastUpdateTime              | datetime          | The last update time of the wallet                             |
 
 
 **wallet_address_info**
