@@ -10,7 +10,7 @@
 
 3\. On the right part you can input your SQL language to query data. Here we want to get the top 10 holders in terms of balance for ERC20 token LIT(Litentry),  and select the address(wallet\__adderss\__info), number of transaction(countTotal), balance(balance) in the result. 
 
-![](<../../.gitbook/assets/create-new-analysis-3.PNG>)
+![](<../../.gitbook/assets/create-new-analysis-3-updated.PNG>)
 
 4\. If your SQL can run without error,  the query result will be listed directly. 
 
