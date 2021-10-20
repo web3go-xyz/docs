@@ -15,7 +15,7 @@ This table shows general information about tokens on Ethereum.
 
 **wallet_address_ext**
 
-This table shows wallet address information in database.
+This table shows wallet address information on Ethereum.
 
 | field name                  | data type         | data description             |
 | ----------------------------|:-----------------:| ---------------------------- |
