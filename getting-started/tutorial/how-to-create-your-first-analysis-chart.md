@@ -16,15 +16,15 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step4-sample2.PNG>)
 
-5\. Now you can click the "New Visulization" menu to switch to the generating chart in semi-automatic pattern.  Here we want to visulize the data with Bar chart.  Input the "Title" and select the value in "X column" and "Y column". After that, click the "Generate" button. the chart will be generated. Then if you click the "publish" button and provide the information, the chart can be published. 
+5\. Now you can click the "Chart" tab and generate charts in semi-automatic pattern! Here we would like to visulize the result with a line chart. Select "LineChart" in the dropdown menu and click "Add" button. Type a "Title" and select the data sources for "X column" and "Y column". Now just click the "Run" button and the chart will be generated! 
 
 ![](<../../.gitbook/assets/create-new-analysis-step5-sample2.PNG>)
 
-6\. After published, go back to the first page, you will find the newly-created chart is listed there. 
+6\. Now you can choose to publish your results and charts by clicking the "Publish" button on the top and provide the relevant information. After published, go back to the home page, you will find the newly-created data board listed there!
 
 ![](<../../.gitbook/assets/create-new-analysis-step6-sample2.PNG>)
 
-7\. Click the data board, you will see the chart is already there! 
+7\. Click the data board, you will find your data and charts!
 
 ![](<../../.gitbook/assets/create-new-analysis-step7-sample2.PNG>)
 
