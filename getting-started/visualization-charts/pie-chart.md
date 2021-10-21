@@ -4,7 +4,7 @@ A pie or donut chart can be used when breaking out a metric by a single dimensio
 
 The options for pie charts let you choose which field to use as your measurement, and which one to use for the dimension (i.e. the pie slices). You can also customize the color of each slice, the pie chart’s legend, whether or not to show each slice’s percent of the whole in the legend, and the minimum size a slice needs to be in order for Metabase to display it.
 
-![](<../../.gitbook/assets/截屏2021-10-12 下午1.36.43.png>)
+![](<../../.gitbook/assets/pie-chart-sample-1.PNG>)
 
 
 
