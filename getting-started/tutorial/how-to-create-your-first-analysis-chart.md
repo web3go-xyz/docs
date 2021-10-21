@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step1-sample2.PNG>)
 
-2\. On the left panel, select the schema in the dropdown menu and decide which dataset you want to work on. Take 'Kusama' for example, now you can find a list of all the tables and the corresponding columns information which you can use to write your query.
+2\. On the left panel, select the schema in the dropdown menu and decide which dataset you want to work on. Take 'Kusama' for example, below the dropdown menu, you can find a list of all the tables and the corresponding columns information which you can use to write your query.
 
 ![](<../../.gitbook/assets/create-new-analysis-step2-sample2.PNG>)
 
@@ -12,7 +12,7 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step3-sample2.PNG>)
 
-4\. If your SQL can run without error,  the query result will be listed directly. 
+4\. If your SQL runs without error, the query result will be listed directly. 
 
 ![](<../../.gitbook/assets/create-new-analysis-step4-sample2.PNG>)
 
@@ -20,7 +20,7 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step5-sample2.PNG>)
 
-6\. You can also choose to publish your results and charts, by clicking the "Publish" button on the top and providing the relevant information. After published, go back to the home page, you will find the newly-created data board listed there!
+6\. You can choose to publish your results and charts, by clicking the "Publish" button on the top and providing the relevant information. After published, go back to the home page, you will find the newly-created data board listed there!
 
 ![](<../../.gitbook/assets/create-new-analysis-step6-sample2.PNG>)
 
