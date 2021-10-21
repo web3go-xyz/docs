@@ -1,6 +1,6 @@
 # How to create your first analysis chart
 
-1\. Click the **"Create New Analysis"** button, it will navtigates to the "Create New Analysis" page. 
+1\. Let's navtigate to "Create New Analysis" page by clicking the **"Create New Analysis"** button.
 
 ![](<../../.gitbook/assets/create-new-analysis-step1-sample2.PNG>)
 
@@ -20,7 +20,7 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step5-sample2.PNG>)
 
-6\. You can also choose to publish your results and charts by clicking the "Publish" button on the top and provide the relevant information. After published, go back to the home page, you will find the newly-created data board listed there!
+6\. You can also choose to publish your results and charts, by clicking the "Publish" button on the top and providing the relevant information. After published, go back to the home page, you will find the newly-created data board listed there!
 
 ![](<../../.gitbook/assets/create-new-analysis-step6-sample2.PNG>)
 
