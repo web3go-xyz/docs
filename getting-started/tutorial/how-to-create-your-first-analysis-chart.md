@@ -16,7 +16,7 @@
 
 ![](<../../.gitbook/assets/create-new-analysis-step4-sample2.PNG>)
 
-5\. Now you can click the "Chart" tab and generate charts in a semi-automatic pattern! Here we would like to visulize the result with a line chart. Select "LineChart" in the dropdown menu and click "Add" button. Type a "Title" and select the data sources for "X column" and "Y column". Now just click the "Run" button and the chart will be generated! 
+5\. Now you can click the "Chart" tab and generate charts in a semi-automatic pattern! Here we would like to visualize the result with a line chart. Select "LineChart" in the dropdown menu and click "Add" button. Type a "Title" and select the data sources for "X column" and "Y column". Now just click the "Run" button and the chart will be generated! 
 
 ![](<../../.gitbook/assets/create-new-analysis-step5-sample2.PNG>)
 
