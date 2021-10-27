@@ -1,6 +1,6 @@
 # How to create your first analysis chart
 
-1\. Let's navtigate to "Create New Analysis" page by clicking the **"Create New Analysis"** button.
+1\. Let's navtigate to "Create New Analysis" page by clicking the **"Create New Analysis"** button on the home page.
 
 ![](<../../.gitbook/assets/create-new-analysis-step1-sample2.PNG>)
 
