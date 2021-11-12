@@ -46,7 +46,7 @@ This table shows all the crowdloan contribution information on Polkadot
 
 **polk_para_chain_crowdloan_contribution_proxy_detail**
 
-This table shows all the crowdloan contribution information on Polkadot
+This table shows information about crowdloan contribution made on proxy platforms on Polkadot
 
 | field name        | data type         | data description             |
 | ------------------|:-----------------:| ---------------------------- |
