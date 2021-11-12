@@ -16,6 +16,7 @@
 
 ## DATA TABLES
 
+* [Polkadot Crowdloan](data-tables/polkadot-crowdloan.md)
 * [KSM Crowdloan](data-tables/ksm-crowdloan.md)
 * [Moonriver](data-tables/moonriver.md)
 * [Karura](data-tables/karura.md)
