@@ -44,3 +44,15 @@ This table shows all the crowdloan contribution information on Polkadot
 | blockNum          | integer           | The block number where the contribution took place                             |
 | createAt          | datetime          | The date and time when the contribution was created                             |
 
+**polk_para_chain_crowdloan_contribution_proxy_detail**
+
+This table shows all the crowdloan contribution information on Polkadot
+
+| field name        | data type         | data description             |
+| ------------------|:-----------------:| ---------------------------- |
+| id                | integer           | Unique id                    |
+| crowdloanId       | varchar           | Crowdloan ID, alias funds.edges.node.id                             |
+| contributionAccount           | varchar           | Account that made the contribution                             |
+| amount            | double            | Amount of the contribution                             |
+| blockHeightOnProxy          | integer           | The block number where the contribution took place on Polkadot                            |
+| createAtOnProxy          | datetime          | The date and time when the contribution was created on Polkadot                            |
