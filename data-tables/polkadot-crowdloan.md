@@ -53,6 +53,8 @@ This table shows information about crowdloan contribution made on proxy platform
 | id                | integer           | Unique id                    |
 | crowdloanId       | varchar           | Crowdloan ID, alias funds.edges.node.id                             |
 | contributionAccount           | varchar           | Account that made the contribution                             |
+| proxyAccount           | varchar           | Account that the proxy platform used to make the contribution on polkadot js                             |
 | amount            | double            | Amount of the contribution                             |
 | blockHeightOnProxy          | integer           | The block number where the contribution took place on Polkadot                            |
 | createAtOnProxy          | datetime          | The date and time when the contribution was created on Polkadot                            |
+
