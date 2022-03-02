@@ -14,6 +14,8 @@
   * [Bar chart](getting-started/visualization-charts/bar-chart.md)
   * [Pie chart](getting-started/visualization-charts/pie-chart.md)
 
+## FEATURED DATA BOARDS
+
 ## DATA TABLES
 
 * [Polkadot Crowdloan](data-tables/polkadot-crowdloan.md)
