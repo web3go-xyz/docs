@@ -16,6 +16,8 @@
 
 ## FEATURED DATA BOARDS
 
+* [Moonriver Staking](featured-data-boards/moonriver-staking.md)
+
 ## DATA TABLES
 
 * [Polkadot Crowdloan](data-tables/polkadot-crowdloan.md)
@@ -25,6 +27,5 @@
 * [Ethereum Data](data-tables/ethereum-data.md)
 
 ## Label
-* [Moonriver Staking](featured-data-boards/moonriver-staking.md)
 
 * [Labling system](label/labling-system.md)
