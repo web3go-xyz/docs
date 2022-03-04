@@ -17,6 +17,7 @@
 ## FEATURED DATA BOARDS
 
 * [Moonriver Staking](featured-data-boards/moonriver-staking.md)
+* [RMRK NFT Garden](featured-data-boards/rmrk-nft-garden.md)
 
 ## DATA TABLES
 
